@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+My goal is to learn the fundamentals of REST API development and apply this knowledge to create reliable and scalable backend systems.
